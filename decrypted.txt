@@ -1,0 +1,4 @@
+Hello, this is a test message!
+Testing encryption with numbers: 123
+And some special characters: @#$%
+ALL CAPS TEST 
