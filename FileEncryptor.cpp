@@ -160,9 +160,7 @@ std::string getFilePath(const std::string& prompt) {
 
 int main() {
     try {
-        std::cout << "╔════════════════════════════════════════╗\n"
-                  << "║        FILE ENCRYPTOR/DECRYPTOR        ║\n"
-                  << "╚════════════════════════════════════════╝\n\n";
+        std::cout << "FILE ENCRYPTOR/DECRYPTOR" << std::endl;
 
         // Get operation choice
         int choice = getValidatedInput(
